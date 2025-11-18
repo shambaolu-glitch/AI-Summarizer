@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/vpvtZZi5ZWk?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/project_ai_summarizer/assets/151519281/90267296-c133-4cb1-a27e-fe1a3aa522b9" alt="Project Banner">
+    <a href="https://github.com/shambaolu-glitch/AI-Summarizer" target="_blank">
+      <img src="" alt="Project Banner">
     </a>
   <br />
 
@@ -27,7 +27,7 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>Shmabaolu-glitch</b></a>. 
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
@@ -266,7 +266,7 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 
 And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
 
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
+<a href="https://www.linkedin.com/in/shamba-olu-889425395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
 </a>
 
 #
