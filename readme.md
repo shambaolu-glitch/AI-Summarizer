@@ -27,9 +27,9 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>Shmabaolu-glitch</b></a>. 
+This repository contains the code corresponding to my skill set  on our linkedin file, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>Shmabaolu-glitch</b></a>. 
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+If you prefer visual learning, this is the perfect resource for you. Follow our link and chat me up for jobs to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
 
 ## <a name="introduction">🤖 Introduction</a>
